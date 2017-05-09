@@ -1,0 +1,68 @@
+#appdiv1 {
+    width: 250px;
+    padding: 20px;
+    border: 2px solid white;
+    margin-left: 400px;
+    margin-top: 30PX;
+}
+
+#appdiv2 {
+    margin-top: 200px;
+    width: 400px;
+    border: 2px solid #fff;
+    height: auto;
+}
+
+body {
+    background-color: black;
+}
+
+#loudspeaker {
+    height: 180px;
+    width: 180px;
+    align-content: center;
+    margin: 10px;
+    margin-left: 100px;
+}
+
+#caller {
+    color: red;
+}
+
+#popup {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #ccc;
+    font-size: 14px;
+    display: none;
+    left: 50%;
+    margin-left: -502px;
+    position: fixed;
+    top: 10%;
+    width: 300px;
+    z-index: 2;
+    padding: 20px;
+    align-content: absolute;
+    background-color: black;
+    color: green;
+}
+
+#popup2 {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #ccc;
+    font-size: 14px;
+    display: none;
+    left: 50%;
+    margin-left: -502px;
+    position: fixed;
+    top: 10%;
+    width: 300px;
+    z-index: 2;
+    padding: 20px;
+    align-content: absolute;
+    background-color: black;
+    color: green;
+}
+
+#set {
+    display: none;
+}
